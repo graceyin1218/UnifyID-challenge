@@ -11,7 +11,7 @@ public class BitMap {
     
     public static void main(String[] args) throws IOException {
         
-        // according to java Color documentation:
+        // according to Java's Color documentation:
         // "Bits 24-31 are alpha, 16-23 are red, 8-15 are green, 0-7 are blue"
         
         // this is convenient -- we can just request 32 bit integers from random.org 
